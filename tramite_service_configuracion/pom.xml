@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.exact</groupId>
-	<artifactId>tramite_service_paquete</artifactId>
+	<artifactId>tramite_service_configuracion</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>tramite_service_paquete</name>
+	<name>tramite_service_configuracion</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
